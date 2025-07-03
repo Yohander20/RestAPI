@@ -1,6 +1,6 @@
 <strong>Proyecto REST API</strong>
 
-En este proyecto se realizo una REST API con Node js y TypeScript, donde se hicieron los diferentes CRUDS:
+En este proyecto se realizo una REST API con Express y TypeScript, donde se hicieron los diferentes CRUDS:
 
 <strong>GET</strong> (Obtener Productos sean todos o un unico producto por su id) <br/>
 <strong>POST</strong> (Insetar Productos) <br/>
